@@ -1,0 +1,14 @@
+body{
+	background-color: black;
+}
+#canvas1{
+	border-style: solid;
+	background-image: url("Fondo.png");
+}
+#caja_puntuacion{
+	font-family: calibri;
+	font-size: 22px;
+	background-color: #2DAFFF;
+	width: 25%;
+	
+}
